@@ -1,0 +1,7 @@
+/**
+ * @return %s
+ */
+public function get%s()
+{
+    return $this->%s;
+}

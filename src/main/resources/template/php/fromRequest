@@ -1,0 +1,9 @@
+/**
+ * @param Illuminate\Http\Request $request
+ */
+ public static function fromRequest(Request $request) :%s
+ {
+    $data = new %s();
+    %s
+    return $data;
+ }

@@ -1,0 +1,7 @@
+/**
+ * @param %s $%s
+ */
+public function get%s($%s) : void
+{
+    $this->%s = $%s;
+}
